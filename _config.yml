@@ -1,0 +1,22 @@
+# Site settings
+title: mogelmose.org
+description: This GitHub Pages site is powered by Jekyll 🧪
+# baseurl:
+# url: https://mogelmose.org
+
+# User settings
+username: Steffen Møgelmose
+user_description: 
+user_title: Developer
+email: steffen@mogelmose.org
+twitter_username: smogelmose
+github_username:  smogelmose
+# gplus_username:  lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
+
+remote_theme: murraco/jekyll-theme-minimal-resume
