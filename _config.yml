@@ -14,7 +14,7 @@ github_username:  smogelmose
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "G-V1E68N850R"
 
 exclude: ['package.json', 'src' , 'node_modules']
 
