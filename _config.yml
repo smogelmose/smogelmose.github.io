@@ -12,6 +12,9 @@ email: steffen@mogelmose.org
 twitter_username: smogelmose
 github_username:  smogelmose
 
+# Google-analytics
+google-analytics: "G-V1E68N850R"
+
 exclude: ['package.json', 'src' , 'node_modules']
 
 remote_theme: murraco/jekyll-theme-minimal-resume
