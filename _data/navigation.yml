@@ -1,6 +1,6 @@
 main:
   - title: "CV"
-    url: /cv/
+    url: /cv-json/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Publications"
@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
 
   # - title: "CV"
-  #   url: /cv-json/
+  #   url: /cv/
 
   # - title: "Guide"
   #   url: /markdown/
