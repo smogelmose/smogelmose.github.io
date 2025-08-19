@@ -4,11 +4,11 @@
     "email": "steffen@mogelmose.org",
     "phone": "",
     "website": "https://smogelmose.github.io",
-    "summary": "Currently employed at AAU CREATE Department of Architecture, Design & Media Technology",
+    "summary": "  Creative Technologist with a focus on human-centered and multisensory experiences. I have a BSc in Medialogy from Aalborg University Copenhagen and have worked with immersive technologies, human-computer interaction, and user-centered design on both research projects and creative industry projects. My diverse background includes the development of games and film, biometric sensing, artificial intelligence, interaction design, and experimental research.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
+      "city": "Copenhagen",
       "countryCode": "DK",
       "region": "Capital Region, Denmark"
     },
@@ -52,8 +52,16 @@
     },
     
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+  "Human-centered design",
+  "Mixed-methods user studies (quantitative & qualitative)",
+  "Biometric sensing & data analysis (Python)",
+  "Cybersickness/VIMS protocol design",
+  "Unity & Unreal Engine prototyping (C#, Blueprint)",
+  "Technical lab & media equipment management",
+  "Post-production & VFX pipeline optimization",
+  "Research dissemination and academic writing (LaTeX)"],
+  "languages": ["Danish (Native)", "English (Fluent)", "German (Basic)"],
   "interests": [],
   "references": [],
   "publications": [

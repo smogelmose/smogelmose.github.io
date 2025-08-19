@@ -9,13 +9,6 @@ redirect_from:
 
 Thanks for stopping by!
 
-I have a BSc in Medialogy from Aalborg University Copenhagen and have worked with immersive technologies, human-computer interaction, and user-centered design on both research projects and creative industry projects.
-
-I have a diverse background that includes the development of games and film, biometric sensing, artificial intelligence, interaction design, and experimental research, cybersickness in VR, creative technology, and digital media production.
-
-I assist students and staff in using lab resources and assist with technical equipment management as a part-time student assistant at the Creative Technology Lab.
-
-Currently, I'm involved in the Balance VR research project at the Multisensory Experience Lab, investigating how spatialized sound affects sensory conflict and how balance and motion sickness interact in virtual reality.
 
 Skills
 ======
