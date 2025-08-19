@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Mogelmose"
 title_separator          : "-"
 name                     : &name "Steffen Møgelmose"
-description              : &description "Creative Technologist | Human-Centered & Multisensory Experiences"
+description              : &description "Creative Technologist"
 url                      : https://smogelmose.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smogelmose/smogelmose.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Steffen Møgelmose"
   pronouns         : # example: "she/her"  
-  bio              : "Creative Technologist | Human-Centered & Multisensory Experiences"
+  bio              : "Creative Technologist"
   location         : "Capital Region, Denmark"
-  employer         : "AAU CREATE Department of Architecture, Design & Media Technology"
+  employer         : "AAU CREATE"
   uri              : # URL
-  email            : "steffen@mog.org" 
+  email            : "steffen@mogelmose.org" 
 
   # Academic websites
   academia         : # URL
