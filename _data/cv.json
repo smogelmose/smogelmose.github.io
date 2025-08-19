@@ -1,64 +1,56 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Steffen Møgelmose",
+    "email": "steffen@mogelmose.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://smogelmose.github.io",
+    "summary": "Currently employed at AAU CREATE Department of Architecture, Design & Media Technology",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "",
+      "countryCode": "DK",
+      "region": "Capital Region, Denmark"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=eZdaHG8AAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-9038-7928"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "smogelmose",
+        "url": "https://github.com/smogelmose"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Aalborg University Copenhagen",
+      "area": "BSc in Medialogy",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2022-09-01",
+      "endDate": "2025-06-01",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Aalborg University Copenhagen",
+      "area": "MSc in Medialogy",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2025-09-01",
+      "endDate": "2027-06-01",
       "gpa": null,
       "courses": []
     },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
+    
   ],
   "skills": [],
   "languages": [],
@@ -66,79 +58,13 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "A Pilot-Study into a Novel Application for Inducing and Studying Visually-Induced Motion Sickness in a VR environment",
+      "publisher": "2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)}",
+      "releaseDate": "2025-03-08",
+      "website": "https://www.researchgate.net/publication/391123155_A_Pilot-Study_into_a_Novel_Application_for_Inducing_and_Studying_Visually-Induced_Motion_Sickness_in_a_VR_environment#fullTextFileContent",
+      "summary": "This study presents a digital solution for inducing visually-induced motion sickness (VIMS) using a head-mounted display (HMD) in a virtual environment. By digitally replicating off vertical axis rotation by adopting the Epley Omniax Chair, we induce sensory conflicts between the visual and vestibular systems through rotational vection, alongside optokinetic stimulation inspired by the Optoki-netic Drum (OKD). A secondary goal of the application is to experiment with methods for mitigating cybersickness. Self-reported data via the visual induced motion sickness questionnare (VIMSSQ) and motion sickness severity scale (MSSS) from a randomised experiment on 30 participants (10 female, 20 male) show that the application reliably induces cybersickness and can apply mitigating methods. From these findings we can confidently conclude that the application can be used as a VIMS-inducing tool."
     }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
+    
   ],
   "portfolio": [
     {
