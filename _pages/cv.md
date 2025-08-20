@@ -11,46 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc in Medialogy, Aalborg University Copenhagen, 2027 (expected)
+* BSc in Medialogy, Aalborg University Copenhagen, 2025
+* AP in Multimedia Design, Copenhagen School of Design and Technology, 2004
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025: Student Research Assistant
+  * Multisensory Experience Lab - AAU CREATE Department of Architecture, Design & Media Technology
+  * Duties includes: Research on the Balance VR project, investigating how spatialized sound influences sensory conflict and the relationship between balance and motion sickness in virtual reality.
+  * Supervisor: Stefania Serafin
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 - 2027: Student Assistant
+  * Creative Technology Lab - AAU CREATE Department of Architecture, Design & Media Technology
+  * Duties included: Assist students and staff in using lab resources and manage technical equipment as a part-time student assistant at the Creative Technology Lab.
+  * Supervisor: Jesper Greve
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Human-Centered Design  
+* User Studies  
+  * Mixed-methods (quantitative & qualitative)  
+  * Cybersickness/VIMS protocol design  
+  * Biometric sensing & data analysis (Python)  
+* Prototyping & Development  
+  * Unity (C#)  
+  * Unreal Engine (Blueprint)  
+* Technical & Media Support  
+  * Lab & equipment management  
+  * Post-production & VFX pipeline optimization  
+* Research & Communication  
+  * Academic writing (LaTeX)  
+  * Research dissemination  
+
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -59,6 +58,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
