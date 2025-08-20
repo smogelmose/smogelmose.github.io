@@ -25,7 +25,7 @@ Tech stack
 ======
 
 <section id="tech-stack" style="text-align: center; padding: 40px;">
-  <h2>⚡ Tech Stack</h2>
+  
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 20px;">
 
   <!-- Slack -->
