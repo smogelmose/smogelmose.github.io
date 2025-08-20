@@ -17,17 +17,22 @@ Education
 
 Work experience
 ======
-**Summer 2025: Student Research Assistant**  
-*Multisensory Experience Lab – AAU CREATE, Department of Architecture, Design & Media Technology*  
-- Conducted research and development on the **Balance VR** project, investigating how spatialized sound influences sensory conflict and the relationship between balance and motion sickness in virtual reality.  
-- Collected and analyzed data using biometric sensors and motion tracking.  
-- Supervisor: Stefania Serafin
+# Work Experience
 
-
-**2022 – 2027: Student Assistant**  
-*Creative Technology Lab – AAU CREATE, Department of Architecture, Design & Media Technology*  
-- Assisted students and staff in using lab resources and managing technical equipment as a part-time student assistant.  
-- Supervisor: Jesper Greve
+- **Jul 2025 – Present:** Student Research Assistant, *Multisensory Experience Lab – AAU CREATE, Copenhagen*  
+- **Nov 2022 – Present:** Student Assistant, *AAU CREATE, Copenhagen*  
+- **Feb 2022 – Sep 2022:** Technical Writer, *Chainbox, Copenhagen*  
+- **Apr 2019 – Mar 2020:** Sales Assistant, *Spejder Sport A/S, Naestved*  
+- **Jan 2016 – Mar 2018:** Technical Assistant, *Filmværksted København, Copenhagen*  
+- **Oct 2013 – Dec 2015:** Technical Assistant / Acting CTO, *Filmworkshop CPH – Danish Film Institute, Copenhagen*  
+- **Feb 2008 – Mar 2013:** Freelance / Free Agent, *Visiontank, Copenhagen*  
+- **Jan 2011 – Jan 2012:** Project Manager, *Chainbox, Copenhagen*  
+- **May 2009 – Dec 2010:** Post Production Technician, *Studios A/S, Copenhagen*  
+- **Apr 2008 – Apr 2009:** Implementation Manager (GoViral), *AOL, Copenhagen*  
+- **Dec 2007 – Mar 2008:** Digital Technician, *Filmworkshop CPH, Copenhagen*  
+- **Nov 2006 – Nov 2007:** Colorist, *Filmworkshop CPH, Copenhagen*  
+- **Sep 2006 – Oct 2006:** Game Tester, *Guppyworks, Copenhagen*  
+- **Jun 1999 – Nov 1999:** Marketing Assistant, *Citroën, Copenhagen*  
 
   
 Top skills
