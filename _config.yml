@@ -57,7 +57,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : 118443135-steffen-m-gelmose
+  goodreads        : user/show/118443135-steffen-m-gelmose
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
@@ -70,7 +70,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : smogelmose
+  # twitter          : smogelmose
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
