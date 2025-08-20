@@ -28,138 +28,134 @@ Tech stack
   <h2>⚡ Tech Stack</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 20px;">
 
-    <!-- Slack -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="80" alt="Slack" />
+  <!-- Slack -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="80" alt="Slack" />
           
+  <!-- Notion -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="80" alt="Notion" />
+          
+  <!-- Canva -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="80" alt="Canva"/>
+          
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="80" alt="Figma" />
+  
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80" alt="Git" />
 
-    <!-- Notion -->
-    <!-- custom logo needed -->
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="80" alt="GitHub" />
 
-    <!-- Canva -->
-    <!-- custom logo needed -->
+  <!-- GitLab -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="80" alt="GitLab" />
 
-    <!-- Figma -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="80" alt="Figma" />
+  <!-- Latex -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="80" alt="Latex"/>
+          
+  <!-- Markdown -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="80" alt="Markdown" />
 
-    <!-- Photoshop -->
-    <!-- custom logo needed -->
+  <!-- UML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="80" alt="UML" />
+          
+  <!-- P5.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" width="80" alt="p5.js" />
 
-    <!-- Git -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80" alt="Git" />
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="80" alt="C#" />
 
-    <!-- GitHub -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="80" alt="GitHub" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" alt="Python" />
 
-    <!-- GitLab -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="80" alt="GitLab" />
+  <!-- Anaconda -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="80" alt="Anaconda"/>
+          
+  <!-- Jupyter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="80" alt="Jupyter" />
 
-    <!-- Latex -->
-    <!-- custom logo needed -->
+  <!-- Google Colab -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="80" alt="Google Colab"/>
+          
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="80" alt="NumPy" />
 
-    <!-- Markdown -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="80" alt="Markdown" />
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="80" alt="Pandas" />
 
-    <!-- UML -->
-    <!-- custom logo needed -->
+  <!-- Plotly -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="80" alt="Plotly" />
+          
+  <!-- PyPI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" width="80" alt="PyPi" />
 
-    <!-- P5.js -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" width="80" alt="p5.js" />
+  <!-- Matplotlib -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="80" alt="Matplotlib" />
+          
+  <!-- Pytest -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="80" alt="Pytest" />
+          
+  <!-- Matlab -->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="80" alt="Matlab" />
+         
+  <!-- IBM SPSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" width="80" alt="SPSS" />
+          
+  <!-- TensorFlow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="80" alt="TensorFlow" />
 
-    <!-- C# -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="80" alt="C#" />
+  <!-- PyTorch -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="80" alt="PyTorch" />
 
-    <!-- Python -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" alt="Python" />
+  <!-- Keras -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="80" alt="Keras" />
 
-    <!-- Anaconda -->
-    <!-- custom logo needed -->
+  <!-- OpenCV -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="80" alt="OpenCV" />
+          
+  <!-- Arduino -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="80" alt="Arduino" />
 
-    <!-- Jupyter -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="80" alt="Jupyter" />
+  <!-- Raspberry Pi -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="80" alt="Raspberry Pi" />
+          
+  <!-- Blender -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="80" alt="Blender" />
 
-    <!-- Google Colab -->
-    <!-- custom logo needed -->
+  <!-- Maya -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg"  width="80" alt="Maya"  />
+          
+  <!-- Unity -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="80" alt="Unity" />
 
-    <!-- NumPy -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="80" alt="NumPy" />
+  <!-- Unreal Engine -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="80" alt="Unreal Engine" />
 
-    <!-- Pandas -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="80" alt="Pandas" />
+  <!-- Android -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="80" alt="Android" />
 
-    <!-- Plotly -->
-    <!-- custom logo needed -->
+  <!-- Processing -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" width="80" alt="Processing" />
 
-    <!-- PyPI -->
-    <!-- custom logo needed -->
+  <!-- Visual Studio -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="80" alt="Visual Studio" />
 
-    <!-- Matplotlib -->
-    <!-- custom logo needed -->
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="80" alt="VS Code" />
 
-    <!-- Pytest -->
-    <!-- custom logo needed -->
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="80" alt="Docker" />
 
-    <!-- Matlab -->
-    <!-- custom logo needed -->
+  <!-- Nuget -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" width="80" alt="Nuget" />
+          
+  <!-- Google Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="80" alt="Google Cloud" />
 
-    <!-- IBM SPSS -->
-    <!-- custom logo needed -->
+  <!-- AWS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="80" alt="AWS" />
 
-    <!-- TensorFlow -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="80" alt="TensorFlow" />
-
-    <!-- PyTorch -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="80" alt="PyTorch" />
-
-    <!-- Keras -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="80" alt="Keras" />
-
-    <!-- OpenCV -->
-    <!-- custom logo needed -->
-
-    <!-- Arduino -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="80" alt="Arduino" />
-
-    <!-- Raspberry Pi -->
-    <!-- custom logo needed -->
-
-    <!-- Blender -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="80" alt="Blender" />
-
-    <!-- Maya -->
-    <!-- custom logo needed -->
-
-    <!-- Unity -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="80" alt="Unity" />
-
-    <!-- Unreal Engine -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="80" alt="Unreal Engine" />
-
-    <!-- Android -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="80" alt="Android" />
-
-    <!-- Processing -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" width="80" alt="Processing" />
-
-    <!-- Visual Studio -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="80" alt="Visual Studio" />
-
-    <!-- VS Code -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="80" alt="VS Code" />
-
-    <!-- Docker -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="80" alt="Docker" />
-
-    <!-- Nuget -->
-    <!-- custom logo needed -->
-
-    <!-- Google Cloud -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="80" alt="Google Cloud" />
-
-    <!-- AWS -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="80" alt="AWS" />
-
-    <!-- Jekyll -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" width="80" alt="Jekyll" />
+  <!-- Jekyll -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" width="80" alt="Jekyll" />
   </div>
 </section>
 
