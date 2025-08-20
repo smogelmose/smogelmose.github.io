@@ -17,7 +17,6 @@ Education
 
 Work experience
 ======
-# Work Experience
 
 - **Jul 2025 – Present:** Student Research Assistant, *Multisensory Experience Lab – AAU CREATE, Copenhagen*  
 - **Nov 2022 – Present:** Student Assistant, *AAU CREATE, Copenhagen*  
