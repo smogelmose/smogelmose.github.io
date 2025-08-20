@@ -4,16 +4,16 @@ excerpt: "Balance VR investigates how visual, vestibular, and auditory systems i
 collection: portfolio
 ---
 
-# **Balance VR: Sensory Conflict & Motion Sickness in VR**
+## **Balance VR: Sensory Conflict & Motion Sickness in VR**
 
 ---
-## **Project Overview**
+### **Project Overview**
 - Study the impact of **spatialized sound** on sensory integration and motion sickness.
 - Quantify how **sensory conflicts** affect balance and dizziness.
 - Develop **VR protocols** for assessing motion sickness and balance.
 
 ---
-## **Key Objectives**
+### **Key Objectives**
 - **Quantify Sensory Conflict:** Manipulate visual, vestibular, and auditory inputs in VR to measure their effects on dizziness, motion sickness, and balance.
 - **Explore Spatialized Sound:** Assess how **3D audio cues** influence sensory conflict and motion sickness.
 
