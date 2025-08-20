@@ -11,11 +11,11 @@ Thanks for stopping by!
 
 My current focus and projects  
 ======
-• [Research](https://ieeexplore.ieee.org/document/10972842) and [Development](../_portfolio/portfolio-balance-VR.md) on the [Balance VR project](https://vbn.aau.dk/en/organisations/multisensory-experience-laboratory/publications/), investigating how spatialized sound influences sensory conflict and the relationship between balance and motion sickness in virtual reality.  
+• [Research](https://ieeexplore.ieee.org/document/10972842) and development on the [Balance VR project](../_portfolio/portfolio-balance-VR.md), investigating how spatialized sound influences sensory conflict and the relationship between balance and motion sickness in virtual reality.  
 
-• [Developing](../_portfolio/portfolio-metahuman-eye.md) realistic [MetaHuman](https://dev.epicgames.com/documentation/en-us/metahuman/metahuman-creator) eye behavior in [UE 5.6](https://www.unrealengine.com/) using [Black Eye Camera](https://blackeyetechnologies.com/) and [ZenBlink plugins](https://support.zenblink.com/).  
+• [Developing](../_portfolio/portfolio-metahuman-eye.md) realistic [MetaHuman](https://dev.epicgames.com/documentation/en-us/metahuman/metahuman-creator) eye behavior in UE 5.6 using [Black Eye Camera](https://blackeyetechnologies.com/) and [ZenBlink](https://support.zenblink.com/) plugins.  
 
-• [Designing](../_portfolio/portfolio-alien-ai.md) an enemy AI system inspired by the Xenomorph AI from [Alien Isolation](https://www.sega.com/alien-isolation/alien-isolation) in [UE 5.6](https://www.unrealengine.com/) using Unreal Engine 5's [State Tree system](https://dev.epicgames.com/documentation/en-us/unreal-engine/overview-of-state-tree-in-unreal-engine).  
+• [Designing](../_portfolio/portfolio-alien-ai.md) an enemy AI system inspired by the Xenomorph AI from [Alien Isolation](https://www.sega.com/alien-isolation/alien-isolation) in UE 5.6 using the Unreal Engine [State Tree system](https://dev.epicgames.com/documentation/en-us/unreal-engine/overview-of-state-tree-in-unreal-engine).  
 
 Publications
 ======
@@ -131,12 +131,7 @@ Tech stack
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="64" alt="Matplotlib" />
   </a>
-  
-  <!-- Pytest -->
-  <a href="https://pytest.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="64" alt="Pytest" />
-  </a>
-  
+    
   <!-- Matlab -->
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="64" alt="Matlab" />
@@ -210,17 +205,7 @@ Tech stack
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="64" alt="Visual Studio" />
   </a>
-
-  <!-- Arduino IDE -->
-  <a href="https://www.arduino.cc/en/software" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="64" alt="Arduino IDE" />
-  </a>
-
-  <!-- OpenAI  -->
-  <a href="https://openai.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="64" alt="OpenAI" />
-  </a>
-     
+    
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="64" alt="VS Code" />
