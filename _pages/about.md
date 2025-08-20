@@ -25,138 +25,139 @@ Tech stack
 ======
 
 <section id="tech-stack" style="text-align: center; padding: 40px;">
-  
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 20px;">
 
-  <!-- Slack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="80" alt="Slack" />
-          
-  <!-- Notion -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="80" alt="Notion" />
-          
-  <!-- Canva -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="80" alt="Canva"/>
-          
-  <!-- Figma -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="80" alt="Figma" />
-  
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80" alt="Git" />
-
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="80" alt="GitHub" />
-
-  <!-- GitLab -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="80" alt="GitLab" />
-
-  <!-- Latex -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="80" alt="Latex"/>
-          
-  <!-- Markdown -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="80" alt="Markdown" />
-
-  <!-- UML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="80" alt="UML" />
-          
-  <!-- P5.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" width="80" alt="p5.js" />
-
-  <!-- C# -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="80" alt="C#" />
-
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" alt="Python" />
-
-  <!-- Anaconda -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="80" alt="Anaconda"/>
-          
-  <!-- Jupyter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="80" alt="Jupyter" />
-
-  <!-- Google Colab -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="80" alt="Google Colab"/>
-          
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="80" alt="NumPy" />
-
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="80" alt="Pandas" />
-
-  <!-- Plotly -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="80" alt="Plotly" />
-          
-  <!-- PyPI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" width="80" alt="PyPi" />
-
-  <!-- Matplotlib -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="80" alt="Matplotlib" />
-          
-  <!-- Pytest -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="80" alt="Pytest" />
-          
-  <!-- Matlab -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="80" alt="Matlab" />
-         
-  <!-- IBM SPSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" width="80" alt="SPSS" />
-          
-  <!-- TensorFlow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="80" alt="TensorFlow" />
-
-  <!-- PyTorch -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="80" alt="PyTorch" />
-
-  <!-- Keras -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="80" alt="Keras" />
-
-  <!-- OpenCV -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="80" alt="OpenCV" />
-          
-  <!-- Arduino -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="80" alt="Arduino" />
-
-  <!-- Raspberry Pi -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="80" alt="Raspberry Pi" />
-          
-  <!-- Blender -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="80" alt="Blender" />
-
-  <!-- Maya -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg"  width="80" alt="Maya"  />
-          
-  <!-- Unity -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="80" alt="Unity" />
-
-  <!-- Unreal Engine -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="80" alt="Unreal Engine" />
-
-  <!-- Android -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="80" alt="Android" />
-
-  <!-- Processing -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" width="80" alt="Processing" />
-
-  <!-- Visual Studio -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="80" alt="Visual Studio" />
-
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="80" alt="VS Code" />
-
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="80" alt="Docker" />
-
-  <!-- Nuget -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" width="80" alt="Nuget" />
-          
-  <!-- Google Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="80" alt="Google Cloud" />
-
-  <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="80" alt="AWS" />
-
-  <!-- Jekyll -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" width="80" alt="Jekyll" />
+    <!-- Slack -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="64" alt="Slack" /></a>
+    
+    <!-- Notion -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="64" alt="Notion" /></a>
+    
+    <!-- Canva -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="64" alt="Canva"/></a>
+    
+    <!-- Figma -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="64" alt="Figma" /></a>
+    
+    <!-- Git -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="64" alt="Git" /></a>
+    
+    <!-- GitHub -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="64" alt="GitHub" /></a>
+    
+    <!-- GitLab -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="64" alt="GitLab" /></a>
+    
+    <!-- Latex -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="64" alt="Latex"/></a>
+    
+    <!-- Markdown -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="64" alt="Markdown" /></a>
+    
+    <!-- UML -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="64" alt="UML" /></a>
+    
+    <!-- P5.js -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" width="64" alt="p5.js" /></a>
+    
+    <!-- C# -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="64" alt="C#" /></a>
+    
+    <!-- Python -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" alt="Python" /></a>
+    
+    <!-- Anaconda -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="64" alt="Anaconda"/></a>
+    
+    <!-- Jupyter -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="64" alt="Jupyter" /></a>
+    
+    <!-- Google Colab -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="64" alt="Google Colab"/></a>
+    
+    <!-- NumPy -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="64" alt="NumPy" /></a>
+    
+    <!-- Pandas -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="64" alt="Pandas" /></a>
+    
+    <!-- Plotly -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="64" alt="Plotly" /></a>
+    
+    <!-- PyPI -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" width="64" alt="PyPi" /></a>
+    
+    <!-- Matplotlib -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="64" alt="Matplotlib" /></a>
+    
+    <!-- Pytest -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="64" alt="Pytest" /></a>
+    
+    <!-- Matlab -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="64" alt="Matlab" /></a>
+    
+    <!-- IBM SPSS -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" width="64" alt="SPSS" /></a>
+    
+    <!-- TensorFlow -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="64" alt="TensorFlow" /></a>
+    
+    <!-- PyTorch -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="64" alt="PyTorch" /></a>
+    
+    <!-- Keras -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="64" alt="Keras" /></a>
+    
+    <!-- OpenCV -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="64" alt="OpenCV" /></a>
+    
+    <!-- Arduino -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="64" alt="Arduino" /></a>
+    
+    <!-- Raspberry Pi -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="64" alt="Raspberry Pi" /></a>
+    
+    <!-- Blender -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="64" alt="Blender" /></a>
+    
+    <!-- Maya -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" width="64" alt="Maya" /></a>
+    
+    <!-- Unity -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="64" alt="Unity" /></a>
+    
+    <!-- Unreal Engine -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="64" alt="Unreal Engine" /></a>
+    
+    <!-- Android -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="64" alt="Android" /></a>
+    
+    <!-- Processing -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" width="64" alt="Processing" /></a>
+    
+    <!-- Visual Studio -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="64" alt="Visual Studio" /></a>
+    
+    <!-- VS Code -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="64" alt="VS Code" /></a>
+    
+    <!-- Docker -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="64" alt="Docker" /></a>
+    
+    <!-- Nuget -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" width="64" alt="Nuget" /></a>
+    
+    <!-- Google Cloud -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="64" alt="Google Cloud" /></a>
+    
+    <!-- AWS -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" alt="AWS" /></a>
+    
+    <!-- Jekyll -->
+    <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" width="64" alt="Jekyll" /></a>
+    
   </div>
 </section>
+
 
           
