@@ -1,6 +1,6 @@
 ---
 title: "Balance VR - Multisensory Experience Lab"
-excerpt: "Balance VR investigates how visual, vestibular, and auditory systems interact in VR, focusing on sensory conflict, spatialized sound, and motion sickness.<br/><img src='/images/500x300.png'>"
+excerpt: "Balance VR studies sensory conflict, spatial sound, and motion sickness in VR.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

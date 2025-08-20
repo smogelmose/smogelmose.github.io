@@ -22,13 +22,13 @@ repository               : "smogelmose/smogelmose.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "SM.png"
   name             : "Steffen Møgelmose"
   pronouns         : # example: "she/her"  
   bio              : "Creative Technologist"
   location         : "Capital Region, Denmark"
   employer         : "AAU CREATE"
-  uri              : # URL
+  uri              : "https://www.mogelmose.org"
   email            : "steffen@mogelmose.org" 
 
   # Academic websites
@@ -57,7 +57,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # Username
+  goodreads        : 118443135-steffen-m-gelmose
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
@@ -70,7 +70,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : smogelmose
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
