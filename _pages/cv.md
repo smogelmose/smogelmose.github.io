@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Spring 2025: Student Research Assistant
+* Summer 2025: Student Research Assistant
   * Multisensory Experience Lab - AAU CREATE Department of Architecture, Design & Media Technology
   * Duties includes: Research on the Balance VR project, investigating how spatialized sound influences sensory conflict and the relationship between balance and motion sickness in virtual reality.
   * Supervisor: Stefania Serafin
@@ -28,7 +28,7 @@ Work experience
   * Supervisor: Jesper Greve
 
   
-Skills
+Top skills
 ======
 * Human-Centered Design  
 * User Studies  
