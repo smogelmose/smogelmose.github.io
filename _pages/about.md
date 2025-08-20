@@ -9,8 +9,11 @@ redirect_from:
 
 Thanks for stopping by!
 
+My current focus and projects
+======
+• [Research](https://ieeexplore.ieee.org/document/10972842) on the [Balance VR project](https://melcph.create.aau.dk/), investigating how spatialized sound influences sensory conflict and the relationship between balance and motion sickness in virtual reality.
 
-Skills
+Top skills
 ======
 • Human-centered design
 • Mixed-methods user studies (quantitative & qualitative)

@@ -17,33 +17,35 @@ Education
 
 Work experience
 ======
-* Summer 2025: Student Research Assistant
-  * Multisensory Experience Lab - AAU CREATE Department of Architecture, Design & Media Technology
-  * Duties includes: Research on the Balance VR project, investigating how spatialized sound influences sensory conflict and the relationship between balance and motion sickness in virtual reality.
-  * Supervisor: Stefania Serafin
+**Summer 2025: Student Research Assistant**  
+*Multisensory Experience Lab – AAU CREATE, Department of Architecture, Design & Media Technology*  
+- Conducted research and development on the **Balance VR** project, investigating how spatialized sound influences sensory conflict and the relationship between balance and motion sickness in virtual reality.  
+- Collected and analyzed data using biometric sensors and motion tracking.  
+- Supervisor: Stefania Serafin
 
-* 2022 - 2027: Student Assistant
-  * Creative Technology Lab - AAU CREATE Department of Architecture, Design & Media Technology
-  * Duties included: Assist students and staff in using lab resources and manage technical equipment as a part-time student assistant at the Creative Technology Lab.
-  * Supervisor: Jesper Greve
+
+**2022 – 2027: Student Assistant**  
+*Creative Technology Lab – AAU CREATE, Department of Architecture, Design & Media Technology*  
+- Assisted students and staff in using lab resources and managing technical equipment as a part-time student assistant.  
+- Supervisor: Jesper Greve
 
   
 Top skills
 ======
 * Human-Centered Design  
 * User Studies  
-  * Mixed-methods (quantitative & qualitative)  
-  * Cybersickness/VIMS protocol design  
-  * Biometric sensing & data analysis (Python)  
+* Mixed-methods (quantitative & qualitative)  
+* Cybersickness/VIMS protocol design  
+* Biometric sensing & data analysis (Python)  
 * Prototyping & Development  
-  * Unity (C#)  
-  * Unreal Engine (Blueprint)  
+* Unity (C#)  
+* Unreal Engine (Blueprint)  
 * Technical & Media Support  
-  * Lab & equipment management  
-  * Post-production & VFX pipeline optimization  
+* Lab & equipment management  
+* Post-production & VFX pipeline optimization  
 * Research & Communication  
-  * Academic writing (LaTeX)  
-  * Research dissemination  
+* Academic writing (LaTeX)  
+* Research dissemination  
 
 
 Publications
