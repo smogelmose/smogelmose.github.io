@@ -11,7 +11,7 @@ Thanks for stopping by!
 
 My current focus and projects
 ======
-• [Research](https://ieeexplore.ieee.org/document/10972842) and [development](...\_portfolio\portfolio-balance-VR.md) on the [Balance VR project](https://melcph.create.aau.dk/), investigating how spatialized sound influences sensory conflict and the relationship between balance and motion sickness in virtual reality.
+• [Research](https://ieeexplore.ieee.org/document/10972842) and [Development](../_portfolio/portfolio-balance-VR.md) on the [Balance VR project](https://melcph.create.aau.dk/), investigating how spatialized sound influences sensory conflict and the relationship between balance and motion sickness in virtual reality.
 
 
 Publications
