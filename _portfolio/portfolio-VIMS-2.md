@@ -1,6 +1,6 @@
 ---
 title: "Advancing Cybersickness Research: A VR Application for Inducing Visually Induced Motion Sickness"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
