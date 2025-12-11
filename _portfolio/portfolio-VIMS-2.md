@@ -4,4 +4,6 @@ excerpt: "Short description<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This project's objective was to establish a reliable, scalable framework for studying visually induced motion sickness (VIMS) in virtual-reality. We developed a VR application that combines off-centre rotation, horizontal oscillation, and spatialized audio to amplify sensory conflict and quantifying symptoms via integrated subjective questionnaires and biometric measures. The project was done in collaboration with the Copenhagen Hearing and Balance Centre, Rigshospitalet and ME-Lab - CREATE, AAU.
+This follow-up study extends the VR VIMS-induction application by adding off-center rotation, vertical oscillation, and spatialized audio to intensify sensory conflict. With 30 participants, the enhanced system showed stronger cybersickness induction (MSSS scores from 0.3 to 2.3) and demonstrated that electrodermal activity (EDA) correlates positively with subjective discomfort, supporting EDA as a physiological marker for early cybersickness detection.The project was done in collaboration with the Copenhagen Hearing and Balance Centre, Rigshospitalet and ME-Lab - CREATE, AAU.
+
+---
