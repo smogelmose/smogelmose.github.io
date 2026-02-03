@@ -36,20 +36,18 @@ Work experience
   
 Top skills
 ======
-* Human-Centered Design  
-* User Studies  
-* Mixed-methods (quantitative & qualitative)  
-* Cybersickness/VIMS protocol design  
-* Biometric sensing & data analysis (Python)  
-* Prototyping & Development  
-* Unity (C#)  
-* Unreal Engine (Blueprint)  
-* Technical & Media Support  
-* Lab & equipment management  
-* Post-production & VFX pipeline optimization  
-* Research & Communication  
-* Academic writing (LaTeX)  
-* Research dissemination  
+• Human-centered Design
+• Mixed-Methods User Studies
+• VR Experiment Design and Implementation
+• Machine Learning and AI Integration
+• Unity and Unreal Engine Prototyping
+• Real-Time Computer Graphics
+• Biometric Sensing and Data Analysis
+• Narratives in Interactive Systems
+• Research Dissemination and Academic Writing
+• Technical Lab and Equipment Management
+• Post-Production and VFX Pipeline Optimization
+• Stop-Motion and Real-Time Animation 
 
 
 Publications
