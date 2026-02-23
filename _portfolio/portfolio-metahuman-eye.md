@@ -9,3 +9,5 @@ collection: portfolio
 ---
 ### **Project Overview**
 - Designing and implementing a system for realistic human eye behavior, using the Black Eye Camera and ZenBlink plugins to achieve lifelike motion and enhanced immersion in digital characters.
+
+---
