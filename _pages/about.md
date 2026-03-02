@@ -158,11 +158,7 @@ Tech stack
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" alt="AWS" />
   </a>
 
-  <!-- Jekyll -->
-  <a href="https://jekyllrb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" width="64" alt="Jekyll" />
-  </a>
-
+ 
   <!-- Claude -->
   <a href="https://claude.ai/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/claude.svg" width="64" alt="Claude" />
