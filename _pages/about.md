@@ -36,28 +36,17 @@ Tech stack
   <a href="https://www.notion.so/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="64" alt="Notion" />
   </a>
-  
-    
+      
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="64" alt="Figma" />
   </a>
-  
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="64" alt="Git" />
-  </a>
-  
+     
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="64" alt="GitHub" />
   </a>
-  
-  <!-- GitLab -->
-  <a href="https://about.gitlab.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="64" alt="GitLab" />
-  </a>
-  
+    
   <!-- LaTeX -->
   <a href="https://www.latex-project.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="64" alt="LaTeX" />
@@ -66,11 +55,6 @@ Tech stack
   <!-- Markdown -->
   <a href="https://www.markdownguide.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="64" alt="Markdown" />
-  </a>
-  
-  <!-- UML -->
-  <a href="https://www.uml.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="64" alt="UML" />
   </a>
   
   <!-- p5.js -->
@@ -83,7 +67,6 @@ Tech stack
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="64" alt="C#" />
   </a>
    
-  
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" alt="Python" />
@@ -145,11 +128,6 @@ Tech stack
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="64" alt="PyTorch" />
   </a>
   
-  <!-- Keras -->
-  <a href="https://keras.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="64" alt="Keras" />
-  </a>
-  
   <!-- OpenCV -->
   <a href="https://opencv.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="64" alt="OpenCV" />
@@ -160,17 +138,11 @@ Tech stack
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="64" alt="Arduino" />
   </a>
   
-
   <!-- Blender -->
   <a href="https://www.blender.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="64" alt="Blender" />
   </a>
-  
-  <!-- Maya -->
-  <a href="https://www.autodesk.com/products/maya/overview" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" width="64" alt="Maya" />
-  </a>
-  
+   
   <!-- Unity -->
   <a href="https://unity.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="64" alt="Unity" />
@@ -180,36 +152,7 @@ Tech stack
   <a href="https://www.unrealengine.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="64" alt="Unreal Engine" />
   </a>
-  
-  <!-- Android -->
-  <a href="https://www.android.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="64" alt="Android" />
-  </a>
-  
-  <!-- Processing -->
-  <a href="https://processing.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" width="64" alt="Processing" /></a>
-    
-  <!-- Visual Studio -->
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="64" alt="Visual Studio" />
-  </a>
-    
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="64" alt="VS Code" />
-  </a>
-
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="64" alt="Docker" />
-  </a>
-
-  <!-- Nuget -->
-  <a href="https://www.nuget.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" width="64" alt="Nuget" />
-  </a>
-
+ 
    <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" alt="AWS" />
