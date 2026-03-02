@@ -1,10 +1,10 @@
 ---
 title: "Facial Expression Classification Using ARKit Blendshape Time-Series Data"
-excerpt: "Alien AI description.<br/><img src='/images/500x300.png'>"
+excerpt: "Short description.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-## **Adaptive Stealth AI in UE5 - Inspired by Alien: Isolation**
+## **Facial Expression Classification Using ARKit Blendshape Time-Series Data**
 
 ---
 ### **Project Overview**

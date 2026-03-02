@@ -17,3 +17,4 @@ collection: portfolio
 - **Quantify Sensory Conflict:** Manipulate visual, vestibular, and auditory inputs in VR to measure their effects on dizziness, motion sickness, and balance.
 - **Explore Spatialized Sound:** Assess how **3D audio cues** influence sensory conflict and motion sickness.
 
+---
