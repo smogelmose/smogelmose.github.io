@@ -37,8 +37,7 @@ Tech stack
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="64" alt="Notion" />
   </a>
   
-  
-  
+    
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="64" alt="Figma" />
@@ -83,11 +82,7 @@ Tech stack
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="64" alt="C#" />
   </a>
-
-
-   <!-- C# -->
    
-          
   
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
@@ -139,11 +134,7 @@ Tech stack
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="64" alt="Matlab" />
   </a>
   
-  <!-- SPSS -->
-  <a href="https://www.ibm.com/products/spss-statistics" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" width="64" alt="SPSS" />
-  </a>
-  
+    
   <!-- TensorFlow -->
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="64" alt="TensorFlow" />
@@ -169,11 +160,7 @@ Tech stack
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="64" alt="Arduino" />
   </a>
   
-  <!-- Raspberry Pi -->
-  <a href="https://www.raspberrypi.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="64" alt="Raspberry Pi" />
-  </a>
-  
+
   <!-- Blender -->
   <a href="https://www.blender.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="64" alt="Blender" />
@@ -223,12 +210,7 @@ Tech stack
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" width="64" alt="Nuget" />
   </a>
 
-  <!-- Google Cloud -->
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="64" alt="Google Cloud" />
-  </a>
-
-  <!-- AWS -->
+   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" alt="AWS" />
   </a>
@@ -248,11 +230,7 @@ Tech stack
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ollama.svg" width="64" alt="Ollama" />
   </a>
 
-  <!-- PsychoPy -->
-  <a href="https://www.psychopy.org/" target="_blank">
-    <img src="https://www.psychopy.org/_static/navbar.png" height="64" alt="PsychoPy" />
-  </a>
-
+  
   </div>
   </section>
 
