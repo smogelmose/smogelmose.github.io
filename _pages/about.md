@@ -37,10 +37,7 @@ Tech stack
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="64" alt="Notion" />
   </a>
   
-  <!-- Canva -->
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="64" alt="Canva" />
-  </a>
+  
   
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank">
@@ -86,6 +83,11 @@ Tech stack
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="64" alt="C#" />
   </a>
+
+
+   <!-- C# -->
+   
+          
   
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
@@ -235,7 +237,22 @@ Tech stack
   <a href="https://jekyllrb.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" width="64" alt="Jekyll" />
   </a>
-     
+
+  <!-- Claude -->
+  <a href="https://claude.ai/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/claude.svg" width="64" alt="Claude" />
+  </a>
+
+  <!-- Ollama -->
+  <a href="https://ollama.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ollama.svg" width="64" alt="Ollama" />
+  </a>
+
+  <!-- PsychoPy -->
+  <a href="https://www.psychopy.org/" target="_blank">
+    <img src="https://www.psychopy.org/_static/navbar.png" height="64" alt="PsychoPy" />
+  </a>
+
   </div>
   </section>
 
