@@ -13,5 +13,9 @@ This project presents a lightweight facial expression recognition pipeline that 
 
 ---
 
+### **Video Demonstration**
+
+Check out this video demonstration showing the facial expression classification system in action, with real-time emotion recognition from facial motion-capture data.
+
 [Watch on YouTube](https://youtu.be/Q4ImRuCPNOs)
 
