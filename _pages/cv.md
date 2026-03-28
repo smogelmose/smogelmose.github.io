@@ -34,7 +34,7 @@ Work experience
 - **Jun 1999 – Nov 1999:** Marketing Assistant, *Citroën, Copenhagen*  
 
   
-Top skills
+Areas of Expertise:
 ======
 • Human-centered Design
 • Mixed-Methods User Studies
@@ -47,7 +47,7 @@ Top skills
 • Research Dissemination and Academic Writing
 • Technical Lab and Equipment Management
 • Post-Production and VFX Pipeline Optimization
-• Stop-Motion and Real-Time Animation 
+• Stop-Motion and Real-Time Animation
 
 
 Publications
