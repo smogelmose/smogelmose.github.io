@@ -1,6 +1,6 @@
 ---
 title: "Facial Expression Classification Using ARKit Blendshape Time-Series Data"
-excerpt: "Facial Expression Classification.<br/><img src='/images\mlmp_front.png'>"
+excerpt: "Facial Expression Classification.<br/><img src='/images/mlmp_front.png'>"
 collection: portfolio
 ---
 
