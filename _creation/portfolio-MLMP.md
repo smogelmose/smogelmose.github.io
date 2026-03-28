@@ -1,6 +1,6 @@
 ---
 title: "Facial Expression Classification Using ARKit Blendshape Time-Series Data"
-excerpt: "Facial Expression Classification via ARKit — A lightweight pipeline using iPhone blendshape motion capture and a Random Forest classifier to recognize seven facial emotions in real time, achieving 70% accuracy on unseen sequences.<br/><img src='/images/mlmp_front.png'>"
+excerpt: "Facial Expression Classification via ARKit - A lightweight pipeline using iPhone blendshape motion capture and a Random Forest classifier to recognize seven facial emotions in real time, achieving 70% accuracy on unseen sequences.<br/><img src='/images/mlmp_front.png'>"
 collection: portfolio
 ---
 
