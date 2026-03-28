@@ -1,6 +1,6 @@
 ---
 title: "Inducing and Mitigating Visually Induced Motion Sickness Through Virtual Reality"
-excerpt: "Short description<br/><img src='/images/Balls2.png'>"
+excerpt: "Developed a novel HMD-based VR application designed to reliably induce visually induced motion sickness (VIMS) via rotational vection, while also implementing visual and auditory mitigation techniques for controlled research use.<br/><img src='/images/Balls2.png'>"
 collection: portfolio
 ---
 

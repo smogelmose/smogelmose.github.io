@@ -1,6 +1,6 @@
 ---
 title: "Advancing Cybersickness Research: A VR Application for Inducing Visually Induced Motion Sickness"
-excerpt: "Short description<br/><img src='/images/New Sphere.png'>"
+excerpt: "Building on the initial VIMS-induction platform, this follow-up study introduced off-center rotation, vertical oscillation, and spatialized audio to amplify sensory conflict. Across 30 participants, the enhanced system produced significantly stronger cybersickness responses (MSSS scores rising from 0.3 to 2.3), while electrodermal activity (EDA) was found to positively correlate with subjective discomfort.<br/><img src='/images/New Sphere.png'>"
 collection: portfolio
 ---
 
