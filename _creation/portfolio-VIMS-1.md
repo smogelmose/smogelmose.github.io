@@ -1,6 +1,6 @@
 ---
 title: "Inducing and Mitigating Visually Induced Motion Sickness Through Virtual Reality"
-excerpt: "Short description<br/><img src='/images/500x300.png'>"
+excerpt: "Short description<br/><img src='images/Balls2.0.png'>"
 collection: portfolio
 ---
 
