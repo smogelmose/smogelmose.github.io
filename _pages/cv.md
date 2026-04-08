@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 
-- **Jul 2025 – Present:** Student Research Assistant, *Multisensory Experience Lab – AAU CREATE, Copenhagen*  
+- **Jul 2025 – Present:** Student Research Assistant, *Multisensory Experience Lab - AAU CREATE, Copenhagen*  
 - **Nov 2022 – Present:** Student Assistant, *AAU CREATE, Copenhagen*  
 - **Feb 2022 – Sep 2022:** Technical Writer, *Chainbox, Copenhagen*  
 - **Apr 2019 – Mar 2020:** Sales Assistant, *Spejder Sport A/S, Naestved*  
