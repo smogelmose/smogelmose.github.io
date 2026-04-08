@@ -8,4 +8,4 @@ date: 2026-02-04
 location: "Copenhagen, Denmark"
 ---
 
-Talk about the Medialogy MSc programme at AAU Open Day 2026.
+Presentating the Medialogy MSc programme at AAU Open Day 2026.
