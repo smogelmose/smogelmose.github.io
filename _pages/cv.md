@@ -32,24 +32,7 @@ Work experience
 - **Nov 2006 – Nov 2007:** Colorist, *Filmworkshop CPH, Copenhagen*  
 - **Sep 2006 – Oct 2006:** Game Tester, *Guppyworks, Copenhagen*  
 - **Jun 1999 – Nov 1999:** Marketing Assistant, *Citroën, Copenhagen*  
-
   
-Top skills
-======
-• Human-centered Design
-• Mixed-Methods User Studies
-• VR Experiment Design and Implementation
-• Machine Learning and AI Integration
-• Unity and Unreal Engine Prototyping
-• Real-Time Computer Graphics
-• Biometric Sensing and Data Analysis
-• Narratives in Interactive Systems
-• Research Dissemination and Academic Writing
-• Technical Lab and Equipment Management
-• Post-Production and VFX Pipeline Optimization
-• Stop-Motion and Real-Time Animation 
-
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
