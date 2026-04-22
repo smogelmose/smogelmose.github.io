@@ -19,3 +19,5 @@ Check out this video demonstration showing the facial expression classification 
 
 [Watch on YouTube](https://youtu.be/Q4ImRuCPNOs)
 
+[Public on Edge Impulse](https://studio.edgeimpulse.com/public/827620/live)
+
