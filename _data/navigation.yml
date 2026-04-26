@@ -22,3 +22,4 @@ main:
 
   - title: "Embodied Interaction"
     url: "https://github.com/smogelmose/Embodied-interaction"
+    new_tab: true
