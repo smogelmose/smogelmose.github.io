@@ -1,6 +1,7 @@
 main:
   - title: "CV"
     url: /files/cv.pdf
+    new_tab: true
   - title: "Projects"
     url: /projects/
   - title: "Publications"
