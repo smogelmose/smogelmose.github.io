@@ -1,8 +1,9 @@
 main:
   - title: "CV"
-    url: /cv/
-  - title: "Creation"
-    url: /creation/
+    url: /files/cv.pdf
+    new_tab: true
+  - title: "Projects"
+    url: /projects/
   - title: "Publications"
     url: /publications/
 
@@ -21,3 +22,4 @@ main:
 
   - title: "Embodied Interaction"
     url: "https://github.com/smogelmose/Embodied-interaction"
+    new_tab: true
