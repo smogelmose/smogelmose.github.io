@@ -20,6 +20,6 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "GitHub
+  - title: "GitHub"
     url: "https://github.com/smogelmose/"
     new_tab: true
