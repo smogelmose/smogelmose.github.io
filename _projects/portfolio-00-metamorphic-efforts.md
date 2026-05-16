@@ -7,9 +7,9 @@ permalink: /projects/portfolio-metamorphic-efforts/
 
 *Embodied polyphony: enacting the kinesthetic body of prose.*
 
-A generative audiovisual translation of the opening of Franz Kafka's *The Metamorphosis*, driven by Laban Movement Analysis (LMA) Effort qualities extracted through close reading of the source text. The project advances a central claim: literary prose contains a kinesthetic body, extractable through annotation and renderable as embodied audiovisual experience. Developed for the MED8 Embodied Interaction course at Aalborg University Copenhagen.
+A generative audiovisual translation of the opening of Franz Kafka's *The Metamorphosis*, driven by Laban Movement Analysis (LMA) Effort qualities extracted through close reading of the source text. The project advances a central claim: literary prose contains a kinesthetic body, extractable through annotation and renderable as embodied audiovisual experience.
 
-<div style="padding:56.25% 0 0 0;position:relative;margin:2em 0;">
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2em 0;">
   <iframe src="https://player.vimeo.com/video/1187075793?h=da418fe0da&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Metamorphic Efforts walkthrough"></iframe>
 </div>
 
