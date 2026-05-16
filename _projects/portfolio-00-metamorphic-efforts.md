@@ -2,6 +2,7 @@
 title: "Metamorphic Efforts: Embodied Polyphony in Literary Prose"
 excerpt: "A generative audiovisual translation of the opening of Kafka's The Metamorphosis, driven by Laban Movement Analysis Effort qualities extracted from close reading of the source text.  <br/><img src='/images/metamorphic_efforts_front.png'>"
 collection: portfolio
+permalink: /projects/portfolio-metamorphic-efforts/
 ---
 
 *Embodied polyphony: enacting the kinesthetic body of prose.*
@@ -25,9 +26,5 @@ The piece is delivered through a Twine (SugarCube) browser interface that handle
 ## Method
 
 Each passage is annotated for Effort qualities through close reading. The annotation is converted into a numerical trajectory and processed in JavaScript using formulas from Larboulette and Gibet (MOCO 2015) to compute live LMA descriptors. These descriptors drive an Action Drive preset-selector architecture (after Siopa et al.) in TouchDesigner, which selects from a bank of visual presets corresponding to LMA Effort drives. Character voices were generated with ElevenLabs v3; drones via ElevenLabs Music Generation; narration delivered through the browser's audio stack.
-
-## Status and next steps
-
-The project is complete as a course deliverable, with a lab study (N=12-15) designed to evaluate two empirical claims: that LMA Effort qualities can be extracted from literary prose through close reading, and that Effort ratings predict emotional responses during the embodied reading experience. A paper submission to MOCO or CHI is in preparation.
 
 Source code and documentation: [github.com/smogelmose/Embodied-interaction](https://github.com/smogelmose/Embodied-interaction)
