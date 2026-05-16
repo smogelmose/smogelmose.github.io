@@ -1,11 +1,7 @@
 ---
 title: "Metamorphic Efforts: Embodied Polyphony in Literary Prose"
-excerpt: "A generative audiovisual translation of the opening of Kafka's The Metamorphosis, driven by Laban Movement Analysis Effort qualities extracted from close reading of the source text."
-collection: projects
-permalink: /projects/portfolio-metamorphic-efforts/
-header:
-  image: /images/metamorphic_efforts_front.png
-  teaser: /images/metamorphic_efforts_front.png
+excerpt: "A generative audiovisual translation of the opening of Kafka's The Metamorphosis, driven by Laban Movement Analysis Effort qualities extracted from close reading of the source text.  <br/><img src='/images/metamorphic_efforts_front.png'>"
+collection: portfolio
 ---
 
 *Embodied polyphony: enacting the kinesthetic body of prose.*
