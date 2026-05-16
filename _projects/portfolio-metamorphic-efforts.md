@@ -12,6 +12,12 @@ header:
 
 A generative audiovisual translation of the opening of Franz Kafka's *The Metamorphosis*, driven by Laban Movement Analysis (LMA) Effort qualities extracted through close reading of the source text. The project advances a central claim: literary prose contains a kinesthetic body, extractable through annotation and renderable as embodied audiovisual experience. Developed for the MED8 Embodied Interaction course at Aalborg University Copenhagen.
 
+<div style="padding:56.25% 0 0 0;position:relative;margin:2em 0;">
+  <iframe src="https://player.vimeo.com/video/1187075793?h=da418fe0da&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Metamorphic Efforts walkthrough"></iframe>
+</div>
+
+A 10-passage walkthrough of the piece. Each passage is annotated for LMA (BESS: Body, Effort, Shape, Space) through close reading; the resulting trajectory drives a real-time TouchDesigner visual field and a five-layer polyphonic audio mix in the browser. The Action Drive arc moves Press → Wring → Glide → Slash, tracking Gregor's progression from oppressive constriction through anguished struggle to a brief moment of release and finally to the violent break of the manager's arrival.
+
 ## Theoretical framing
 
 The work locates the moving body in literary prose, drawing on phenomenological accounts of embodied perception (Merleau-Ponty, Dourish) and motor simulation theories of reading (Gallese and Lakoff). LMA Effort qualities - Weight, Time, Space, and Flow - serve as the descriptive vocabulary for translating textual movement cues into a generative system. The annotation method inverts Fdili Alaoui et al.'s BESS pipeline, moving from text to close reading to BESS annotation to generative output rather than from body to sensors to classification. Effort-to-emotion mappings draw on de Meijer's empirical validation, and the polyphonic structure invokes Bakhtin to account for multiple simultaneous movement voices within a single passage.
