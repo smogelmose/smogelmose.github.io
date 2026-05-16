@@ -1,5 +1,5 @@
 ---
-title: "Metamorphic Efforts: Embodied Polyphony in Literary Prose"
+title: "Metamorphic Efforts: Visualizing Laban Movement Qualities from Kafka's The Metamorphosis"
 excerpt: "A generative audiovisual translation of the opening of Kafka's The Metamorphosis, driven by Laban Movement Analysis Effort qualities extracted from close reading of the source text.  <br/><img src='/images/metamorphic_efforts_front.png'>"
 collection: portfolio
 permalink: /projects/portfolio-metamorphic-efforts/
@@ -21,7 +21,7 @@ The work locates the moving body in literary prose, drawing on phenomenological 
 
 ## Architecture
 
-The piece is delivered through a Twine (SugarCube) browser interface that handles text, narration, and a canvas displaying live frames streamed from a headless TouchDesigner instance. TouchDesigner streams JPEG frames over WebSocket at approximately 15fps to the browser canvas, where they composite alongside five polyphonic audio layers - narration, body vocalizations, drones, sound effects, and character voices - each with independent gain control. LMA annotations reveal progressively as the reading unfolds, with hover tooltips exposing the underlying Effort qualities.
+The piece is delivered through a Twine (SugarCube) browser interface that handles text, narration, and a canvas displaying live frames streamed from a headless TouchDesigner instance. TouchDesigner streams JPEG frames over WebSocket to the browser canvas, where they composite alongside five polyphonic audio layers - narration, body vocalizations, drones, sound effects, and character voices - each with independent gain control. LMA annotations reveal progressively as the reading unfolds, with hover tooltips exposing the underlying Effort qualities.
 
 ## Method
 
