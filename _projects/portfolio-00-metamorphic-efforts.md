@@ -1,5 +1,5 @@
 ---
-title: "Metamorphic Efforts: Embodied polyphony: enacting the kinesthetic body of prose."
+title: "Metamorphic Efforts: Translating Kafka's The Metamorphosis through Laban Movement Analysis."
 excerpt: "A generative audiovisual translation of the opening of Kafka's The Metamorphosis, driven by Laban Movement Analysis Effort qualities extracted from close reading of the source text.  <br/><img src='/images/metamorphic_efforts_front.png'>"
 collection: portfolio
 permalink: /projects/portfolio-metamorphic-efforts/
