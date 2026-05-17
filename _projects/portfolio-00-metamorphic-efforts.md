@@ -9,7 +9,9 @@ permalink: /projects/portfolio-metamorphic-efforts/
 
 A generative audiovisual translation of the opening of Franz Kafka's *The Metamorphosis*, driven by Laban Movement Analysis (LMA) Effort qualities extracted through close reading of the source text. The project advances a central claim: literary prose contains a kinesthetic body, extractable through annotation and renderable as embodied audiovisual experience.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1187075793?h=da418fe0da&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2em 0;">
+  <iframe src="https://player.vimeo.com/video/1187075793?h=da418fe0da&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Metamorphic Efforts walkthrough"></iframe>
+</div>
 
 A 10-passage walkthrough of the piece. Each passage is annotated for LMA (BESS: Body, Effort, Shape, Space) through close reading; the resulting trajectory drives a real-time TouchDesigner visual field and a five-layer polyphonic audio mix in the browser. The Action Drive arc moves Press to Wring to Glide to Slash, tracking Gregor's progression from oppressive constriction through anguished struggle to a brief moment of release and finally to the violent break of the manager's arrival.
 
