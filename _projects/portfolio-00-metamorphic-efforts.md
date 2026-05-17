@@ -29,6 +29,6 @@ Each passage is annotated for Effort qualities through close reading. The annota
 
 ## Ongoing work
 
-A lab study is in design to test the central claim empirically. Participants rate movement qualities from the text alone, then experience the polyphonic piece and rate the embodied audiovisual rendering, allowing comparison of text-based and experience-based Effort ratings.
+A lab study is in design to test the central proposition empirically. Participants rate movement qualities from the text alone, then experience the polyphonic piece and rate the embodied audiovisual rendering, allowing comparison of text-based and experience-based Effort ratings.
 
 Source code and documentation: [github.com/smogelmose/Embodied-interaction](https://github.com/smogelmose/Embodied-interaction)
