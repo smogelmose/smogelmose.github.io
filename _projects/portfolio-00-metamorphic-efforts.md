@@ -7,7 +7,7 @@ permalink: /projects/portfolio-metamorphic-efforts/
 
 *Medialogy MSc, Embodied Interaction Project, Aalborg University Copenhagen, CREATE, Spring 2026.*
 
-A generative audiovisual translation of the opening of Franz Kafka's *The Metamorphosis*, driven by Laban Movement Analysis (LMA) Effort qualities extracted through close reading of the source text. The project advances a central claim: literary prose contains a kinesthetic body, extractable through annotation and renderable as embodied audiovisual experience.
+A generative audiovisual translation of the opening of Franz Kafka's *The Metamorphosis*, driven by Laban Movement Analysis (LMA) Effort qualities extracted through close reading of the source text. The project advances a central proposition: literary prose contains a kinesthetic body, extractable through annotation and renderable as embodied audiovisual experience.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2em 0;">
   <iframe src="https://player.vimeo.com/video/1187075793?h=da418fe0da&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Metamorphic Efforts walkthrough"></iframe>
@@ -29,6 +29,6 @@ Each passage is annotated for Effort qualities through close reading. The annota
 
 ## Ongoing work
 
-A lab study is in design to test the central claim empirically. Participants rate movement qualities from the text alone, then experience the polyphonic piece and rate the embodied audiovisual rendering, allowing comparison of text-based and experience-based Effort ratings. A paper is in preparation.
+A lab study is in design to test the central claim empirically. Participants rate movement qualities from the text alone, then experience the polyphonic piece and rate the embodied audiovisual rendering, allowing comparison of text-based and experience-based Effort ratings.
 
 Source code and documentation: [github.com/smogelmose/Embodied-interaction](https://github.com/smogelmose/Embodied-interaction)
