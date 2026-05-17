@@ -5,7 +5,7 @@ collection: portfolio
 permalink: /projects/portfolio-metamorphic-efforts/
 ---
 
-*MED8 Embodied Interaction Mini-Project, Aalborg University Copenhagen, Spring 2026.*
+*Medialogy MSc, Embodied Interaction Project, Aalborg University Copenhagen, CREATE, Spring 2026.*
 
 A generative audiovisual translation of the opening of Franz Kafka's *The Metamorphosis*, driven by Laban Movement Analysis (LMA) Effort qualities extracted through close reading of the source text. The project advances a central claim: literary prose contains a kinesthetic body, extractable through annotation and renderable as embodied audiovisual experience.
 
