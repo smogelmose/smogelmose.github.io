@@ -1,0 +1,7 @@
+---
+title: "Exploring Player Profiles in an Affect-Adaptive Interactive Digital Narrative"
+excerpt: "An interrogation-style interactive digital narrative that adapts in real time to players' physiological stress and dialogue choices, evaluated through mixed methods and K-prototypes clustering of emergent player profiles.<br/><img src='/images/aaidn_front.png'>"
+collection: portfolio
+---
+
+This project explores an affect-adaptive, interrogation-style interactive digital narrative that responds in real time to a player's physiological state and dialogue choices. Blood volume pulse (BVP) and electrodermal activity (EDA) from a PLUX/BITalino sensor are streamed via Lab Streaming Layer into a Python pipeline, where a Random Forest classifier trained on the WESAD dataset estimates stress and drives an adaptive NPC built in Unreal Engine 5.6 with MetaHuman characters. A mixed-method study with 27 participants combined physiological logging, Self-Assessment Manikin, identification, and immersion questionnaires, semi-structured interviews, and K-prototypes clustering to surface emergent player profiles beyond a predefined typology. Results indicate that perceived system adaptiveness is more strongly associated with self-reported valence, immersion, and control than with physiological stress alone, and that engagement emerges through multiple co-existing pathways rather than a single behavioral pattern. The project was done in collaboration with the Augmented Cognition Lab at Aalborg University (Copenhagen).
