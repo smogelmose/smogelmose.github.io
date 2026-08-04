@@ -11,9 +11,6 @@ Thanks for stopping by!
 
 About
 ======
-
-# About
-
 I'm a master's student in Medialogy at Aalborg University Copenhagen, where I also earned my BSc in the same field. My work focuses on immersive technologies, human-computer interaction (HCI), and user-centered design, bridging academic research and creative industry practice.
 
 My interdisciplinary background encompasses game and film development, biometric sensing, artificial intelligence, interaction design, and experimental research in virtual reality (VR). My research is situated at the intersection of interactive digital narratives, embodied interaction, and media cognition, with particular interest in how narrative structure and perceptual processes influence participants' physical and cognitive engagement with media technologies. More recently my work has turned toward the phenomenology of immersive media and biosemiotics, asking how virtual environments shape first-person lived experience.
